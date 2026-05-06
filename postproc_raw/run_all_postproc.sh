@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH -A CMPNS_ictpclim
+#SBATCH -A ict26_esp
 #SBATCH -p dcgp_usr_prod
 #SBATCH -N 1 
 #SBATCH -t 4:00:00
@@ -11,7 +11,7 @@
 {
 # module purge
 #source /leonardo/home/userexternal/ggiulian/modules_gfortran
-source /leonardo/home/userexternal/ggiulian/modules_new
+#source /leonardo/home/userexternal/ggiulian/modules_new
 set -eo pipefail
 
 ##############################
@@ -33,19 +33,24 @@ n=$this_domain
 [[ $n = WMediterranean ]] && domdir=WMD03
 
 # directory to RegCM output
-export rdir=/leonardo_work/ICT25_ESP/clu/CORDEX/ERA5
+export rdir=/leonardo_work/ICT26_ESP/clu/CORDEX/ERA5
 
 # directory to pre-processed observation data
-export odir=/leonardo_work/ICT25_ESP/clu/CORDEX/obs
+export odir=/leonardo_work/ICT26_ESP/clu/CORDEX/obs
 
 #yrs=1980-2010
 #yrs=2000-2009
 #yrs=2000-2001
 #yrs=2002-2002
+#yrs=1970-1970
 #yrs=1971-1975
- yrs=1976-1980
+#yrs=1976-1980
 #yrs=1981-1985
 #yrs=1986-1990
+#yrs=1991-1995
+#yrs=1996-2000
+#yrs=2001-2005
+ yrs=2006-2010
 email="clu@ictp.it"
 
 #run_postproc="0 1 1 1 1 0 0" # bias + pdf + pr-frq/int + p99
@@ -53,7 +58,8 @@ email="clu@ictp.it"
 #run_postproc="0 1 0 0 0 0 0" # bias
 #run_postproc="0 0 1 0 0 0 0" # pdf
 #run_postproc="0 0 0 1 0 0 0" # pr-frq/int
- run_postproc="0 0 0 0 1 0 0" # p99
+#run_postproc="0 0 0 0 1 0 0" # p99
+ run_postproc="0 0 0 0 0 0 0 1" # yearly
 #run_postproc="0 0 0 0 0 2 2" # vert + wind
 #run_postproc="0 0 0 0 0 2 0" # vert
 #run_postproc="0 0 0 0 0 0 2" # wind
@@ -72,7 +78,7 @@ export lgc_quv=true  #winds
 
 #hdir=/marconi/home/userexternal/jciarlo0/regcm_tests/Atlas2
 #hdir=/marconi_work/ICT23_ESP/clu/CORDEX-RegCM-Submit-main/scripts_00_v2
-hdir=/leonardo_work/ICT25_ESP/clu/RegCM_scripts/postproc_raw
+hdir=/leonardo_work/ICT26_ESP/clu/RegCM_scripts/postproc_raw
 
 cp=false
 if [ $n = Europe03 -o $n = WMediterranean ]; then
@@ -85,7 +91,8 @@ mn=postproc # main script name
 #postproc=("$mn" "${mn}_pdfs" "${mn}_p99" "${mn}_vert" "${mn}_quv")
 #postproc=("submit-sigma" "$mn" "${mn}_prpct" "${mn}_prc2pr" "${mn}_pdfs" "${mn}_frq-int" "${mn}_p99" "${mn}_vert" "${mn}_vert_daynight" "${mn}_quv")
 #postproc=("submit-sigma" "${mn}" "${mn}_prpct" "${mn}_prc2pr" "${mn}_pdfs_v2" "${mn}_frq-int" "${mn}_p99" "${mn}_vert" "${mn}_vert_daynight" "${mn}_quv_v2" "${mn}_part2" "${mn}_part3")
-postproc=("submit-sigma" "${mn}" "${mn}_pdfs" "${mn}_frq-int" "${mn}_p99" "${mn}_vert" "${mn}_quv")
+#postproc=("submit-sigma" "${mn}" "${mn}_pdfs" "${mn}_frq-int" "${mn}_p99" "${mn}_vert" "${mn}_quv")
+postproc=("submit-sigma" "${mn}" "${mn}_pdfs" "${mn}_frq-int" "${mn}_p99" "${mn}_vert" "${mn}_quv" "${mn}_yearly")
 #
 #postproc=("submit-sigma" "${mn}" "${mn}_pdfs_debug" "${mn}_frq-int" "${mn}_p99" "${mn}_vert" "${mn}_quv")
 nrun=$(( ${#postproc[@]} - 1 ))

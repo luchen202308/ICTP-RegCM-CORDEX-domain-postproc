@@ -25,7 +25,7 @@ tper=$5 #2000-2001
 ##############################
 
 # path to mask files
-mdir=/leonardo_work/ICT25_ESP/clu/OBS/SREX
+mdir=/leonardo_work/ICT26_ESP/clu/OBS/SREX
 # path to RegCM4 results ==> not needed at this stage
 gdir=/marconi_work/ICT23_ESP/jciarlo0/CORDEX/ERA5/RegCM4
 
@@ -49,8 +49,25 @@ cpdf(){
   CDOf fldsum -timsum -gec,-1000 $fin ${fout}_cnt.nc
   vv=$( basename $fin | cut -d'_' -f1 )
   set +e 
+
+  # Debug: Check what ncdump returns
+  echo "DEBUG: ncdump output for ${fout}_cnt.nc:"
+  ncdump -v $vv ${fout}_cnt.nc | tail -5
+
   nc=$( ncdump -v $vv ${fout}_cnt.nc | tail -2 | head -1 | cut -d' ' -f3 )
+  
+  # Debug: Check the extracted value
+  echo "DEBUG: Extracted nc value: '$nc'"
+
   set -e
+
+#  # Validate that nc is numeric
+#  if ! [[ $nc =~ ^[0-9]+$ ]]; then
+#    echo "WARNING: nc is not numeric ('$nc'), using fallback value"
+#    #nc=1  # Fallback to avoid division by zero or invalid values
+#    exit 1
+#  fi
+
   CDOf divc,$nc -fldsum -histcount,$( echo $( seq $mn 1 $mx ) | sed 's/ /,/g' ) $fin $fout
   rm ${fout}_cnt.nc
 }
@@ -123,8 +140,8 @@ elif [ $dom = Mediterranean -o $dom = Europe03 -o $dom = WMediterranean -o $spec
   mdir=$hrdir
   r4="off"
 else 
-  obs_p=CPC
-  #obs_p=ERA5
+  #obs_p=CPC
+  obs_p=ERA5
   obs_t=CRU
 fi
 vars="pr tas"

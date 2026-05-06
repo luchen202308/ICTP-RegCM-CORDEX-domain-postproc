@@ -16,8 +16,8 @@ source /leonardo/home/userexternal/ggiulian/modules_new
 
 n=$1
 path=$2-$1
-rdir=$3 #/leonardo_work/ICT25_ESP/clu/CORDEX/ERA5
-odir=$4 #/leonardo_work/ICT25_ESP/clu/CORDEX/obs
+rdir=$3 #/leonardo_work/ICT26_ESP/clu/CORDEX/ERA5
+odir=$4 #/leonardo_work/ICT26_ESP/clu/CORDEX/obs
 ys=$5 #2000-2001
 scrdir=$6 # path to scripts
 

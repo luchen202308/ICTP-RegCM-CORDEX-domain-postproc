@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH -A CMPNS_ictpclim
+#SBATCH -A ict26_esp
 #SBATCH -p dcgp_usr_prod
 #SBATCH -N 1 
 #SBATCH -t 4:00:00
@@ -17,7 +17,7 @@ source /leonardo/home/userexternal/ggiulian/modules_new
 ##############################
 
 # path to post-processed data
-rdir=/leonardo_work/ICT25_ESP/clu/CORDEX/ERA5
+rdir=/leonardo_work/ICT26_ESP/clu/CORDEX/ERA5
 
 # directory to <domain>_CLM45_surface.nc file (icbc folder)
 ddir=/leonardo_scratch/large/userexternal/clu00000/CORDEX/ERA5/icbc
@@ -27,14 +27,19 @@ ddir=/leonardo_scratch/large/userexternal/clu00000/CORDEX/ERA5/icbc
 #ys=2000-2001
 #ys=2002-2002
 #ys=1971-1975
- ys=1976-1980
+#ys=1976-1980
 #ys=1981-1985
+#ys=1986-1990
+#ys=1991-1995
+#ys=1996-2000
+#ys=2001-2005
+ ys=2006-2010
 #run_plots="1 1 1 1 0 0 0" # all but urban mask
 #run_plots="1 1 1 1 0 0 1" # all
-#run_plots="1 0 0 0 0 0 0" # bias
+ run_plots="1 0 0 0 0 0 0" # bias
 #run_plots="0 1 0 0 0 0 0" # p99
 #run_plots="0 0 1 0 0 0 0" # frq-int
- run_plots="0 0 0 1 0 0 0" # pdf
+#run_plots="0 0 0 1 0 0 0" # pdf
 #run_plots="0 0 0 0 0 0 1" # urban mask
 #####run_plots="0 0 0 0 1 0 0" # vert
 #####run_plots="0 0 0 0 0 1 0" # wind
@@ -51,7 +56,7 @@ plots=("4s_simple" "p99" "4s_frq-int" "pdfs" "vert" "quv" "urban_mask")
 nrun=$(( ${#plots[@]} - 1 ))
 
 # directory to scripts
-sdir=/leonardo_work/ICT25_ESP/clu/RegCM_scripts/postproc_raw
+sdir=/leonardo_work/ICT26_ESP/clu/RegCM_scripts/postproc_raw
 
 if [ $# -ne 3 ]
 then

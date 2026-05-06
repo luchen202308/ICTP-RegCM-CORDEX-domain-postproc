@@ -15,13 +15,13 @@ fi
 ys=$1 
 
 # directory to output
-rdir=/leonardo_work/ICT25_ESP/clu/CORDEX/obs
+rdir=/leonardo_work/ICT26_ESP/clu/CORDEX/obs
 
 ###################
 ###################
 
 # directory to prepare obs scripts
-hdir=/leonardo_work/ICT25_ESP/clu/RegCM_scripts/postproc_raw/obs_scripts
+hdir=/leonardo_work/ICT26_ESP/clu/RegCM_scripts/postproc_raw/obs_scripts
 
 # Processing the average
 #list1="cru cpc gpcp eobs mswep era5 gpcc"
@@ -31,16 +31,16 @@ hdir=/leonardo_work/ICT25_ESP/clu/RegCM_scripts/postproc_raw/obs_scripts
 #list1="gpcp"
 #list1="mswep"
 #list1="gpcc"
-# list1="era5_uv"
+###list1="era5_uv"
 #list1=""
 
 # Processing the pdf
 #list2="cpc cru eobs gpcc"
 #list2="cru eobs"
 #list2="cpc"
- list2="era5"
+#list2="era5"
 #list2="cru"
-#list2="gpcc"
+ list2="gpcc"
 #list2=""
 
 for l in $list1; do

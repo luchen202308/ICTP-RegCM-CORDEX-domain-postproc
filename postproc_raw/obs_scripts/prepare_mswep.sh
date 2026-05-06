@@ -22,8 +22,8 @@ lyr=$( echo $ys | cut -d- -f2 )
 RED='\033[0;31m'
 NC='\033[0m' # No Color
 
-if [[ $fyr -lt 1980 || $lyr -lt 1980 || $fyr -gt 2019 || $lyr -gt 2019 ]]; then
-  echo -e "${RED}Attention${NC}: $obs from 1979-02-01 to 2020-11-30, check input time range."
+if [[ $fyr -lt 1980 || $lyr -lt 1980 || $fyr -gt 2024 || $lyr -gt 2024 ]]; then
+  echo -e "${RED}Attention${NC}: $obs from 1979-02-01 to 2025-05-31, check input time range."
   exit 1 
 fi
 
