@@ -67,7 +67,10 @@ next_month=$(printf "%04d%02d0100" $year $month)
 next_compare="${next_month:0:8}"
 if [[ "$next_compare" -le "$end_compare" ]]; then
     echo "Scheduling next in chain: $next_month"
-    sbatch --dependency=afterok:$rsync_id \
+#    sbatch --dependency=afterok:$rsync_id \
+#           --job-name="pycordex_chain_${next_month:0:6}" \
+#           $this_name "$next_month" "$end_month"
+    sbatch --dependency=afterany:$rsync_id \
            --job-name="pycordex_chain_${next_month:0:6}" \
            $this_name "$next_month" "$end_month"
 

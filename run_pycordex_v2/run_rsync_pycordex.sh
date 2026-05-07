@@ -8,7 +8,7 @@
 #SBATCH --nodes               1
 #SBATCH --ntasks-per-node     1
 #SBATCH --partition           dcgp_usr_prod
-#SBATCH --time                2:00:00
+#SBATCH --time                5:00:00
 
 # path to pycordex outputs on leonardo_scratch
 dir0="/leonardo_scratch/large/userexternal/clu00000/CORDEX/CORDEX-CMIP6/DD"
