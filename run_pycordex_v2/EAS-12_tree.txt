@@ -1,0 +1,771 @@
+/leonardo_work/ICT26_ESP/CORDEX-CMIP6/DD/EAS-12/
+`-- ICTP/
+    `-- ERA5/
+        `-- evaluation/
+            `-- r1i1p1f1/
+                `-- RegCM5-0/
+                    `-- v1-r1/
+                        |-- 1hr/
+                        |   |-- cape/
+                        |   |   |-- cape_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- cin/
+                        |   |   |-- cin_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- clh/
+                        |   |   |-- clh_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- clivi/
+                        |   |   |-- clivi_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- cll/
+                        |   |   |-- cll_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- clm/
+                        |   |   |-- clm_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- clt/
+                        |   |   |-- clt_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- clwvi/
+                        |   |   |-- clwvi_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- evspsbl/
+                        |   |   |-- evspsbl_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- evspsblpot/
+                        |   |   |-- evspsblpot_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hfls/
+                        |   |   |-- hfls_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hfso/
+                        |   |   |-- hfso_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hfss/
+                        |   |   |-- hfss_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hurs/
+                        |   |   |-- hurs_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus1000/
+                        |   |   |-- hus1000_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus200/
+                        |   |   |-- hus200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus250/
+                        |   |   |-- hus250_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus300/
+                        |   |   |-- hus300_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus400/
+                        |   |   |-- hus400_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus500/
+                        |   |   |-- hus500_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus50m/
+                        |   |   |-- hus50m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus600/
+                        |   |   |-- hus600_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus700/
+                        |   |   |-- hus700_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus850/
+                        |   |   |-- hus850_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus925/
+                        |   |   |-- hus925_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- huss/
+                        |   |   |-- huss_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- li/
+                        |   |   |-- li_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- mrro/
+                        |   |   |-- mrro_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- mrros/
+                        |   |   |-- mrros_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- mrso/
+                        |   |   |-- mrso_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- mrsol/
+                        |   |   |-- mrsol_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- pr/
+                        |   |   |-- pr_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- prc/
+                        |   |   |-- prc_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- prsn/
+                        |   |   |-- prsn_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- prw/
+                        |   |   |-- prw_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ps/
+                        |   |   |-- ps_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- psl/
+                        |   |   |-- psl_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rlds/
+                        |   |   |-- rlds_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rlus/
+                        |   |   |-- rlus_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rlut/
+                        |   |   |-- rlut_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rsds/
+                        |   |   |-- rsds_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rsdt/
+                        |   |   |-- rsdt_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rsus/
+                        |   |   |-- rsus_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rsut/
+                        |   |   |-- rsut_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- sfcWind/
+                        |   |   |-- sfcWind_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- snm/
+                        |   |   |-- snm_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- snw/
+                        |   |   |-- snw_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta1000/
+                        |   |   |-- ta1000_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta200/
+                        |   |   |-- ta200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta250/
+                        |   |   |-- ta250_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta300/
+                        |   |   |-- ta300_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta400/
+                        |   |   |-- ta400_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta500/
+                        |   |   |-- ta500_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta50m/
+                        |   |   |-- ta50m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta600/
+                        |   |   |-- ta600_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta700/
+                        |   |   |-- ta700_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta850/
+                        |   |   |-- ta850_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta925/
+                        |   |   |-- ta925_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- tas/
+                        |   |   |-- tas_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- tauu/
+                        |   |   |-- tauu_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- tauv/
+                        |   |   |-- tauv_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ts/
+                        |   |   |-- ts_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- tsl/
+                        |   |   |-- tsl_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua1000/
+                        |   |   |-- ua1000_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua100m/
+                        |   |   |-- ua100m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua150m/
+                        |   |   |-- ua150m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua200/
+                        |   |   |-- ua200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua250/
+                        |   |   |-- ua250_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua300/
+                        |   |   |-- ua300_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua400/
+                        |   |   |-- ua400_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua500/
+                        |   |   |-- ua500_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua50m/
+                        |   |   |-- ua50m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua600/
+                        |   |   |-- ua600_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua700/
+                        |   |   |-- ua700_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua850/
+                        |   |   |-- ua850_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua925/
+                        |   |   |-- ua925_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- uas/
+                        |   |   |-- uas_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va1000/
+                        |   |   |-- va1000_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va100m/
+                        |   |   |-- va100m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va150m/
+                        |   |   |-- va150m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va200/
+                        |   |   |-- va200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va250/
+                        |   |   |-- va250_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va300/
+                        |   |   |-- va300_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va400/
+                        |   |   |-- va400_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va500/
+                        |   |   |-- va500_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va50m/
+                        |   |   |-- va50m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va600/
+                        |   |   |-- va600_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va700/
+                        |   |   |-- va700_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va850/
+                        |   |   |-- va850_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va925/
+                        |   |   |-- va925_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- vas/
+                        |   |   |-- vas_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa1000/
+                        |   |   |-- wa1000_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa200/
+                        |   |   |-- wa200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa250/
+                        |   |   |-- wa250_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa300/
+                        |   |   |-- wa300_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa400/
+                        |   |   |-- wa400_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa500/
+                        |   |   |-- wa500_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa600/
+                        |   |   |-- wa600_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa700/
+                        |   |   |-- wa700_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa850/
+                        |   |   |-- wa850_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa925/
+                        |   |   |-- wa925_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- z0/
+                        |   |   |-- z0_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg1000/
+                        |   |   |-- zg1000_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg200/
+                        |   |   |-- zg200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg250/
+                        |   |   |-- zg250_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg300/
+                        |   |   |-- zg300_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg400/
+                        |   |   |-- zg400_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg500/
+                        |   |   |-- zg500_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg600/
+                        |   |   |-- zg600_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg700/
+                        |   |   |-- zg700_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg850/
+                        |   |   |-- zg850_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg925/
+                        |   |   |-- zg925_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   `-- zmla/
+                        |       |-- zmla_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_1hr_197001010100-197002010000.nc
+                        |       `-- ... (659 more)
+                        |-- 3hr/
+                        |   `-- hfso/
+                        |       |-- hfso_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_3hr_197001010100-197002010000.nc
+                        |       `-- ... (659 more)
+                        |-- 6hr/
+                        |   |-- clh/
+                        |   |   |-- clh_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- cll/
+                        |   |   |-- cll_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- clm/
+                        |   |   |-- clm_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- mrro/
+                        |   |   |-- mrro_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- mrros/
+                        |   |   |-- mrros_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- snm/
+                        |   |   |-- snm_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- snw/
+                        |   |   |-- snw_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010100-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa1000/
+                        |   |   |-- wa1000_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa200/
+                        |   |   |-- wa200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010000-197002010000.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- wa250/
+                        |   |   |-- wa250_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010000-197002010000.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- wa300/
+                        |   |   |-- wa300_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa400/
+                        |   |   |-- wa400_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa500/
+                        |   |   |-- wa500_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa600/
+                        |   |   |-- wa600_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa700/
+                        |   |   |-- wa700_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa850/
+                        |   |   |-- wa850_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010000-197002010000.nc
+                        |   |   `-- ... (659 more)
+                        |   `-- wa925/
+                        |       |-- wa925_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010000-197002010000.nc
+                        |       `-- ... (659 more)
+                        |-- day/
+                        |   |-- cape/
+                        |   |   |-- cape_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- cin/
+                        |   |   |-- cin_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- clh/
+                        |   |   |-- clh_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- clivi/
+                        |   |   |-- clivi_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- cll/
+                        |   |   |-- cll_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- clm/
+                        |   |   |-- clm_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- clt/
+                        |   |   |-- clt_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- clwvi/
+                        |   |   |-- clwvi_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- evspsbl/
+                        |   |   |-- evspsbl_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- evspsblpot/
+                        |   |   |-- evspsblpot_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hfls/
+                        |   |   |-- hfls_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hfso/
+                        |   |   |-- hfso_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hfss/
+                        |   |   |-- hfss_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hurs/
+                        |   |   |-- hurs_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus1000/
+                        |   |   |-- hus1000_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus200/
+                        |   |   |-- hus200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus250/
+                        |   |   |-- hus250_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus300/
+                        |   |   |-- hus300_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus400/
+                        |   |   |-- hus400_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus500/
+                        |   |   |-- hus500_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus50m/
+                        |   |   |-- hus50m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus600/
+                        |   |   |-- hus600_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus700/
+                        |   |   |-- hus700_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus850/
+                        |   |   |-- hus850_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- hus925/
+                        |   |   |-- hus925_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- huss/
+                        |   |   |-- huss_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- li/
+                        |   |   |-- li_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- mrro/
+                        |   |   |-- mrro_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- mrros/
+                        |   |   |-- mrros_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- mrso/
+                        |   |   |-- mrso_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- mrsol/
+                        |   |   |-- mrsol_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- pr/
+                        |   |   |-- pr_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- prc/
+                        |   |   |-- prc_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- prhmax/
+                        |   |   |-- prhmax_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- prsn/
+                        |   |   |-- prsn_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- prw/
+                        |   |   |-- prw_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ps/
+                        |   |   |-- ps_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- psl/
+                        |   |   |-- psl_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rlds/
+                        |   |   |-- rlds_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rlus/
+                        |   |   |-- rlus_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rlut/
+                        |   |   |-- rlut_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rsds/
+                        |   |   |-- rsds_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rsdt/
+                        |   |   |-- rsdt_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rsus/
+                        |   |   |-- rsus_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- rsut/
+                        |   |   |-- rsut_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- sfcWind/
+                        |   |   |-- sfcWind_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- sfcWindmax/
+                        |   |   |-- sfcWindmax_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- snm/
+                        |   |   |-- snm_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- snw/
+                        |   |   |-- snw_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- sund/
+                        |   |   |-- sund_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta1000/
+                        |   |   |-- ta1000_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta200/
+                        |   |   |-- ta200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta250/
+                        |   |   |-- ta250_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta300/
+                        |   |   |-- ta300_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta400/
+                        |   |   |-- ta400_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta500/
+                        |   |   |-- ta500_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta50m/
+                        |   |   |-- ta50m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta600/
+                        |   |   |-- ta600_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta700/
+                        |   |   |-- ta700_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta850/
+                        |   |   |-- ta850_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ta925/
+                        |   |   |-- ta925_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- tas/
+                        |   |   |-- tas_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- tasmax/
+                        |   |   |-- tasmax_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- tasmin/
+                        |   |   |-- tasmin_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- tauu/
+                        |   |   |-- tauu_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- tauv/
+                        |   |   |-- tauv_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ts/
+                        |   |   |-- ts_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- tsl/
+                        |   |   |-- tsl_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua1000/
+                        |   |   |-- ua1000_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua100m/
+                        |   |   |-- ua100m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua150m/
+                        |   |   |-- ua150m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua200/
+                        |   |   |-- ua200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- ua250/
+                        |   |   |-- ua250_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- ua300/
+                        |   |   |-- ua300_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- ua400/
+                        |   |   |-- ua400_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- ua500/
+                        |   |   |-- ua500_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- ua50m/
+                        |   |   |-- ua50m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua600/
+                        |   |   |-- ua600_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua700/
+                        |   |   |-- ua700_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua850/
+                        |   |   |-- ua850_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- ua925/
+                        |   |   |-- ua925_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- uas/
+                        |   |   |-- uas_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va1000/
+                        |   |   |-- va1000_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va100m/
+                        |   |   |-- va100m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va150m/
+                        |   |   |-- va150m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va200/
+                        |   |   |-- va200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va250/
+                        |   |   |-- va250_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va300/
+                        |   |   |-- va300_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va400/
+                        |   |   |-- va400_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va500/
+                        |   |   |-- va500_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va50m/
+                        |   |   |-- va50m_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va600/
+                        |   |   |-- va600_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va700/
+                        |   |   |-- va700_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va850/
+                        |   |   |-- va850_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- va925/
+                        |   |   |-- va925_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- vas/
+                        |   |   |-- vas_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- wa1000/
+                        |   |   |-- wa1000_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- wa200/
+                        |   |   |-- wa200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- wa250/
+                        |   |   |-- wa250_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- wa300/
+                        |   |   |-- wa300_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- wa400/
+                        |   |   |-- wa400_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- wa500/
+                        |   |   |-- wa500_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- wa600/
+                        |   |   |-- wa600_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- wa700/
+                        |   |   |-- wa700_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- wa850/
+                        |   |   |-- wa850_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- wa925/
+                        |   |   |-- wa925_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (658 more)
+                        |   |-- wsgsmax/
+                        |   |   |-- wsgsmax_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- z0/
+                        |   |   |-- z0_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg1000/
+                        |   |   |-- zg1000_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg200/
+                        |   |   |-- zg200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg250/
+                        |   |   |-- zg250_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg300/
+                        |   |   |-- zg300_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg400/
+                        |   |   |-- zg400_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg500/
+                        |   |   |-- zg500_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg600/
+                        |   |   |-- zg600_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg700/
+                        |   |   |-- zg700_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg850/
+                        |   |   |-- zg850_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   |-- zg925/
+                        |   |   |-- zg925_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |   |   `-- ... (659 more)
+                        |   `-- zmla/
+                        |       |-- zmla_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_19700101-19700131.nc
+                        |       `-- ... (659 more)
+                        `-- fx/
+                            |-- orog/
+                            |   `-- orog_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_fx_197001010100-197002010000.nc
+                            |-- sftlf/
+                            |   `-- sftlf_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_fx_197001010100-197002010000.nc
+                            `-- sfturf/
+                                |-- sfturf_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_fx_197001151200-197012151200.nc
+                                `-- ... (1 more)
+
+264 directories, 164985 files
