@@ -17,5 +17,6 @@ root=/leonardo_work/ICT26_ESP/CORDEX-CMIP6/DD/EAS-12/ICTP/ERA5/evaluation/r1i1p1
 
 dir0="$root/6hr/clh/v20260815"
 f0="$dir0/clh_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197002010100-197003010000.nc"
+#f0="$dir0/clh_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_6hr_197001010300-197001312100.nc"
 
 compliance-checker -t wcrp_cordex_cmip6:1.0 $f0
