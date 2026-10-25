@@ -3,7 +3,7 @@
 #SBATCH --account CMPNS_ictpclim
 #SBATCH --qos=qos_lowprio
 #SBATCH --job-name            pycordex
-#SBATCH --mail-type           FAIL,END
+#SBATCH --mail-type           FAIL
 #SBATCH --mail-user           clu@ictp.it
 #SBATCH --nodes               1
 #SBATCH --ntasks-per-node     112

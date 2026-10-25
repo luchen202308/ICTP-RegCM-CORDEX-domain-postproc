@@ -8,6 +8,7 @@
 #SBATCH -t 00:01:00
 #SBATCH -o logs/control.o
 #SBATCH -e logs/control.e
+#SBATCH --exclude=lrdn4344
 
 {
 set -eo pipefail

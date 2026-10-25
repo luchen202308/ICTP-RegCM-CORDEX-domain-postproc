@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#OBSDIR=/leonardo_work/ICT25_ESP/OBS
-OBSDIR=/leonardo_work/ICT25_ESP/clu/OBS
+#OBSDIR=/leonardo_work/ICT26_ESP/OBS
+OBSDIR=/leonardo_work/ICT26_ESP/clu/OBS
 wdir=$2
 cd $wdir
 
@@ -30,7 +30,8 @@ fi
 vars="pr"
 for v in $vars; do
   [[ $v = pr ]] && vc=tp
-  sf=$hdir/pr.era5.day.1980-1985.nc
+  #sf=$hdir/pr.era5.day.1980-1985.nc
+  sf=$hdir/pr.era5.day.1981-1990.nc
   yf=${v}_${obs}_${ys}.nc
   if [ $v = pr ]; then # m/day to mm/day
     eval CDO mulc,24000 -chname,$vc,$v -selvar,$vc -selyear,$fyr/$lyr $sf $yf

@@ -1,0 +1,101 @@
+RUN: 165004 files, 32 in parallel
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+/leonardo_work/ICT26_ESP/clu/RegCM_scripts/run_pycordex_v2/fix_lon_360.py:48: DeprecationWarning: Setting the shape on a NumPy array has been deprecated in NumPy 2.5.
+As an alternative, you can create a new view using np.reshape (with copy=False if needed).
+  var[:] = new
+
+Summary:
+  already_ok             2
+  fixed                  165002

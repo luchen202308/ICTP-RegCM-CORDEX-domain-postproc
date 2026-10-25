@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OBSDIR=/leonardo_work/ICT25_ESP/OBS
+OBSDIR=/leonardo_work/ICT26_ESP/OBS
 wdir=$2
 cd $wdir
 
@@ -22,8 +22,8 @@ RED='\033[0;31m'
 NC='\033[0m' # No Color
 
 #
-if [[ $fyr -lt 1901 || $lyr -lt 1901 || $fyr -gt 2023 || $lyr -gt 2023 ]]; then
-  echo -e "${RED}Attention${NC}: $obs from 1901-01 to 2023-12, check input time range."
+if [[ $fyr -lt 1901 || $lyr -lt 1901 || $fyr -gt 2024 || $lyr -gt 2024 ]]; then
+  echo -e "${RED}Attention${NC}: $obs from 1901-01 to 2024-12, check input time range."
   exit 1
 fi
 

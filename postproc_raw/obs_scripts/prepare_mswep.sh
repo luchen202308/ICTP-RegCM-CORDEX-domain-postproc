@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # OBSDIR=/leonardo_work/ICT25_ESP/OBS
-OBSDIR=/leonardo_work/ICT25_ESP/clu/OBS
+OBSDIR=/leonardo_work/ICT26_ESP/clu/OBS
 wdir=$2
 cd $wdir
 
@@ -37,7 +37,7 @@ for v in $vars; do
   [[ $v = pr ]] && vc=precipitation
 
   #sf=mswep.mon.1979-2020.nc
-  sf=$hdir/mswep.mon.1979-2020.nc
+  sf=$hdir/mswep.mon.1979-2025.nc
   yf=${v}_${obs}_${ys}.nc
   #ff=$( eval ls ??????.nc )
   #[[ ! -f $sf ]] && CDO mergetime $ff $sf  

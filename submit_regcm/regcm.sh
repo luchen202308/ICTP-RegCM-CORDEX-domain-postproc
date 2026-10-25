@@ -11,6 +11,7 @@
 #SBATCH --mail-type=FAIL,END
 #SBATCH --mail-user=clu@ictp.it
 #SBATCH -p dcgp_usr_prod
+#SBATCH --exclude=lrdn4344
 
 {
 set -eo pipefail

@@ -25,22 +25,22 @@ hdir=/leonardo_work/ICT26_ESP/clu/RegCM_scripts/postproc_raw/obs_scripts
 
 # Processing the average
 #list1="cru cpc gpcp eobs mswep era5 gpcc"
-#list1="era5 gpcc"
-#list1="cru eobs era5 gpcc"
+#list1="cru"
 #list1="cpc"
 #list1="gpcp"
 #list1="mswep"
+#list1="era5"
 #list1="gpcc"
 ###list1="era5_uv"
 #list1=""
 
 # Processing the pdf
 #list2="cpc cru eobs gpcc"
-#list2="cru eobs"
 #list2="cpc"
-#list2="era5"
 #list2="cru"
+#list2="eobs"
  list2="gpcc"
+#list2="era5"
 #list2=""
 
 for l in $list1; do

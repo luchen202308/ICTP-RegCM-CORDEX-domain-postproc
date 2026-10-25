@@ -10,6 +10,7 @@
 #SBATCH -J icbc
 #SBATCH --mail-type=FAIL,END
 #SBATCH --mail-user=clu@ictp.it
+#SBATCH --exclude=lrdn4344
 
 {
 set -eo pipefail

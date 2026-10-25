@@ -1,0 +1,2 @@
+/leonardo_work/ICT26_ESP/CORDEX-CMIP6/DD/EAS-12/ICTP/ERA5/evaluation/r1i1p1f1/RegCM5-0/v1-r1/day/va200/va200_EAS-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_20030901-20030930.nc
+/leonardo_work/ICT26_ESP/CORDEX-CMIP6/DD/SAM-12/ICTP/ERA5/evaluation/r1i1p1f1/RegCM5-0/v1-r1/day/ua200/v20260226/ua200_SAM-12_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5-0_v1-r1_day_20030901-20030930.nc

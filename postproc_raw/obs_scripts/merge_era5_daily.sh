@@ -4,14 +4,14 @@
 source /leonardo/home/userexternal/ggiulian/modules_new
 
 #
-dir0=/leonardo_work/ICT25_ESP/OBS/ERA5/daily
-dir1=/leonardo_work/ICT25_ESP/clu/OBS/ERA5/daily
+dir0=/leonardo_work/ICT26_ESP/OBS/ERA5/daily
+dir1=/leonardo_work/ICT26_ESP/clu/OBS/ERA5/daily
 
 #
 #fyr=1950
 #lyr=2023
-fyr=1980
-lyr=1985
+fyr=1981
+lyr=1990
 
 {
 set -eo pipefail
