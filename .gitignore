@@ -1,3 +1,4 @@
 **/logs/
 *.err
 *.out
+fix_logs_*/
