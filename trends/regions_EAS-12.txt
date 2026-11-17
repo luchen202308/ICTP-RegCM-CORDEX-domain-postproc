@@ -1,0 +1,12 @@
+# AR7 regions used for EAS-12 (written by select_regions.py)
+# Kept: coverage >= 90% (full domain).
+# One region per line: CODE  Full name. Edit names or delete lines freely.
+TIB      Tibetan-Plateau
+ECA      Eastern Central Asia
+NESEA    Northeastern Southeast-Asia
+EAS      Eastern Asia
+ESB      Eastern Siberia
+NWSEA    Northwestern Southeast-Asia
+WSB      Western Siberia
+RFE      Russian-Far-East
+SAS      Southern Asia
